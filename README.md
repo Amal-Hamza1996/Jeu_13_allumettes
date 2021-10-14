@@ -18,3 +18,6 @@ que la partie se termine le plus rapidement possible).
 
 
 — niveau expert : l’ordinateur joue du mieux qu’il peut (s’il peut gagner, il gagnera).
+
+
+
